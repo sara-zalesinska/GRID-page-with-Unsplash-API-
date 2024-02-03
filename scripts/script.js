@@ -26,10 +26,6 @@ async function test() {
 
 test()
 
-
-
-
-
 function renderPhotos(data) {
 
     data.forEach(element => {
